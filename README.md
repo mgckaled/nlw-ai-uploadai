@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# `NLW AI || Foundations` - Shorts Summary
+# `NLW AI || Foundations` - Upload.AI
 
 <div align="center">
    <a href="https://github.com/mgckaled">
