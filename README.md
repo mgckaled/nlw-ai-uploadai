@@ -6,8 +6,8 @@
    <a href="https://github.com/mgckaled">
       <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-purple">
    </a>
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/nlw-ai-upload-ai">
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/nlw-ai-upload-ai">
+   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/nlw-ai-uploadai">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/nlw-ai-uploadai">
    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </div>
 <br>
