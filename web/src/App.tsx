@@ -15,7 +15,7 @@ export function App() {
         <h1 className='text-xl font-bold'>upload.ai</h1>
 
         <div className='flex items-center gap-3'>
-          <span className='text-sm text-muted-foreground'>Desenvolvido com 💜 no NLW da Rocketseat</span>
+          <span className='text-sm text-muted-foreground'>Desenvolvido com 🧡 no NLW da Rocketseat</span>
 
           <Separator orientation='vertical' className='h-6 bg-accent' />
 
@@ -38,7 +38,7 @@ export function App() {
           </div>
 
           <p className='text-sm text-muted-foreground'>
-            Lembre-se: você pode utilizar a variável <code className='text-violet-400'>{`{transcription}`}</code> no seu
+            Lembre-se: você pode utilizar a variável <code className='text-primary-foreground'>{`{transcription}`}</code> no seu
             prompt para adicionar o conteúdo da transcrição do vídeo selecionado.
           </p>
         </div>
@@ -113,7 +113,7 @@ export function App() {
               </span>
             </div>
 
-            <Separator  />
+            <Separator />
 
             <Button type='submit' className='w-full'>
               Executar
@@ -125,6 +125,7 @@ export function App() {
     </div>
   )
 }
+
 
 
 

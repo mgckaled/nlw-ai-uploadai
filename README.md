@@ -40,6 +40,15 @@ pnpm create vite
 
 # Run the shadcn-ui init command to setup your project:
 pnpm dlx shadcn-ui@latest init
+
+#
+pnpm prisma init --datasource-provider sqlite
+
+# 
+pnpm prisma migrate dev
+
+# acesso a interface de banco de dados
+pnpm prisma studio
 ```
 
 ## Tecnologias
