@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# `NLW AI || Foundations` - Upload.AI
+# `NLW AI || Mastery` - Upload.AI
 
 <div align="center">
    <a href="https://github.com/mgckaled">
@@ -31,8 +31,6 @@ Acesse análises e comentários sobre o código [AQUI](./.github/docs/code-index
 Indisponível
 
 ### Compandos utilizados
-
-- Compandos utilizados neste projeto
 
 ```bash
 # init vite project
